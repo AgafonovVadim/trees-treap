@@ -1,4 +1,4 @@
-# Cartesian Tree with Random Priorities
+# Cartesian Tree with Random Priorities [![CI](https://github.com/AgafonovVadim/trees-treap/actions/workflows/tests.yml/badge.svg)](https://github.com/AgafonovVadim/trees-treap/actions/workflows/tests.yml)
 
 ## Search Trees
 
